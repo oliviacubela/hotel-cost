@@ -1,0 +1,12 @@
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.csprojAssemblyReference.cache
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.AssemblyInfoInputs.cache
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.AssemblyInfo.cs
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/hotel-cost/bin/Debug/netcoreapp2.1.22/HotelCost.deps.json
+/Users/oliviacubela/hotel-cost/bin/Debug/netcoreapp2.1.22/HotelCost.runtimeconfig.json
+/Users/oliviacubela/hotel-cost/bin/Debug/netcoreapp2.1.22/HotelCost.runtimeconfig.dev.json
+/Users/oliviacubela/hotel-cost/bin/Debug/netcoreapp2.1.22/HotelCost.dll
+/Users/oliviacubela/hotel-cost/bin/Debug/netcoreapp2.1.22/HotelCost.pdb
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.dll
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.pdb
+/Users/oliviacubela/hotel-cost/obj/Debug/netcoreapp2.1.22/HotelCost.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+5OK6XN7ClgQgl1I+f55mB+pAkL7W2QUBjtPkDzf20fKuljCv95RpdiC2WhQGfRSeIPdU11ocZiygYW0vm51g==",
+  "success": true,
+  "projectFilePath": "/Users/oliviacubela/hotel-cost/HotelCost.csproj",
+  "expectedPackageFiles": [
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.app/2.1.22/microsoft.netcore.app.2.1.22.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.22/microsoft.netcore.dotnetapphost.2.1.22.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.22/microsoft.netcore.dotnethostpolicy.2.1.22.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.22/microsoft.netcore.dotnethostresolver.2.1.22.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.platforms/2.1.12/microsoft.netcore.platforms.2.1.12.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/oliviacubela/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
